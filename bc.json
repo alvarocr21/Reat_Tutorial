@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://sapphire-dolphin-4ejmje9a.ws-us03.gitpod.io",
+    "address": "https://tan-crocodile-56izlfb8.ws-us03.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -168,7 +168,7 @@
         {
             "slug": "03.3-component-properties",
             "title": "03.3-component-properties",
-            "done": false,
+            "done": true,
             "path": "exercises/03.3-component-properties",
             "translations": [
                 "es",
@@ -179,7 +179,7 @@
         {
             "slug": "03.4-jumbotron",
             "title": "03.4-jumbotron",
-            "done": false,
+            "done": true,
             "path": "exercises/03.4-jumbotron",
             "translations": [
                 "es",
@@ -190,7 +190,7 @@
         {
             "slug": "03.5-alert-component",
             "title": "03.5-alert-component",
-            "done": false,
+            "done": true,
             "path": "exercises/03.5-alert-component",
             "translations": [
                 "es",
